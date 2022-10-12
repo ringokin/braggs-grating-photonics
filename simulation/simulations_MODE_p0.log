@@ -1,0 +1,195 @@
+Ansys Lumerical 2022 R1.4 Eigenmode Expansion Solver Version 7.19.3044 (Linux 64bit)
+ expires (month/day/year): 5/2/2023
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 1055@10.75.13.24
+current time: qua out 12 01:14:50 2022
+Running on host: fotonica04-To-be-filled-by-O-E-M
+Running lms file: /opt/lumerical/v221/bin/eme-engine -t 4 -remote -shared-solve-license QU5TWVNDTF9DT05URVhUX0RBVEE9PEFOU1lTQ0xfQ09OVEVYVF9EQVRBPjxJRD5hYWExOGU4ZS00NTkzLTQ4YjItYjBiOC1kZDEzY2EzYWE0N2E8L0lEPjxUWVBFPkFQUF9ERUZJTkVEPC9UWVBFPjxOQU1FPmx1bV9zdGFuZGFyZF9zb2x2ZV9zaGFyZTwvTkFNRT48SEFORExFUj40NjkyM0Bmb3RvbmljYTA0LVRvLWJlLWZpbGxlZC1ieS1PLUUtTTwvSEFORExFUj48L0FOU1lTQ0xfQ09OVEVYVF9EQVRBPgpBTlNZU19DT05URVhUX0lEPWFhYTE4ZThlLTQ1OTMtNDhiMi1iMGI4LWRkMTNjYTNhYTQ3YQpBTlNZU19DT05URVhUX1NFUlZFUj00NjkyM0Bmb3RvbmljYTA0LVRvLWJlLWZpbGxlZC1ieS1PLUUtTQo= /home/trainner/Documentos/Vh/braggs-grating-photonics/simulation/simulations_MODE.lms
+Running MODE Simulation
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.029014 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.031135 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.027725 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021031 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020236 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020626 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021612 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020058 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.019562 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.022234 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.019632 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.019708 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021579 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.019952 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021088 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021299 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020214 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.022189 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021318 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020366 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021072 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.02084 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.019454 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.019927 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020772 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020096 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020282 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021162 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.019984 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.019607 seconds of CPU time
+Time to calculate modes :  218.776
+Time to normalize fields and orthogonalize degenerate modes :  5.50588
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.021456 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020994 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.020577 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.023237 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.022902 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 590 x 290
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0.022942 seconds of CPU time
+Time to calculate overlaps : 99.4029
+Overall wall time measurements in seconds : 323.685
+Simulation completed successfully at: qua out 12 01:20:25 2022
+Overall EME run time, measurements in seconds: 335.698
+Total number of processes used by EME simulation : 1
